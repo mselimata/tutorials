@@ -1,2 +1,2 @@
 # DL 101 
-1. introduction to neural networks: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/i-am-mel-dev/tutorials/DL101_part_1_OXML.ipynb/]
+1. introduction to neural networks: om/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k5NiiZ36bjfo0NO8AHFGcVrdII1xNLIW?usp=sharing)
